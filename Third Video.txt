@@ -1,0 +1,6 @@
+- Embedded systems are specialized systems designed to manage multiple processes and achieve specific results.
+- Microcontrollers are mini-processors that contain a microprocessor and can be connected with other modules to easily invest in applications.
+- The course on embedded systems relies on a microcontroller that contains an ARM Cortex-M4 microprocessor, which offers higher performance, larger memory, wider options, more efficient interrupt processing, and greater support for real-time operating systems (RTOS).
+- There are two main types of embedded systems: fixed hardware integrated systems, which do not contain any programmable core, and programmable core embedded systems, which may have the ability to dynamically modify the hardware.
+- ARM is a company that licenses its unique processor architecture, which is based on the Harvard structure and Reduced Instruction Set Computer (RISC) architecture. This architecture offers several advantages, including better performance and power efficiency.
+- When designing embedded systems, several considerations must be taken into account, such as the required processing speed, memory size, working environment, power consumption, product lifetime, and cost. By carefully considering these factors, designers can create effective and efficient embedded systems that meet the needs of their intended applications.

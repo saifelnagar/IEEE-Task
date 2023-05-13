@@ -1,0 +1,15 @@
+
+The first video in the course covers fundamental and main concepts that will be taught throughout the course, as well as the requirements that students should have. The instructor emphasizes the importance of having the necessary equipment for the course and encourages students to have it with them during the course.
+
+The video begins with a definition of Embedded Systems, Microcontrollers, and Microprocessors. The instructor explains why they chose to use ARM Cortex-M4 and goes on to discuss the requirements for designing embedded systems and building microcontrollers and microprocessors, including the equipment used.
+
+Additionally, the video covers fundamental concepts in electrical and electronics engineering that are relevant to the course. Overall, the first video provides a comprehensive overview of the topics that will be covered in the course and sets the foundation for students to build their knowledge and skills in embedded systems.
+
+Basic equipment used in the course includes:
+- Tiva C Series TM4C1294 Connected LaunchPad (TM4C1294NCPDT), which is a microcontroller development board used for programming and testing.
+- Multimeter, which is used to measure voltage, current, and resistance.
+- Logic Analyzer, which is used to analyze the behavior of communication protocols smoothly.
+- Oscilloscope - Multi VirAnalyzer, which is used to measure and analyze electronic signals.
+- Some basic electronic components such as resistors, capacitors, and transistors are also used in the course for building and testing circuits.
+
+In summary, the course uses a range of equipment to teach students about microcontroller programming and electronics. The primary equipment includes a microcontroller development board, multimeter, logic analyzer, and oscilloscope, as well as basic electronic components for building and testing circuits. Together, these tools enable students to gain hands-on experience with microcontrollers and electronics, and develop the skills needed to design and build their own systems and devices.
